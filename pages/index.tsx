@@ -11,6 +11,5 @@ export default function Home() {
       </Head>
       <h1>It's NEXT time!</h1>
     </div>
-   
   )
 }
